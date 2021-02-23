@@ -15,3 +15,5 @@ Test change number one.
 Test change number two.
 
 Test change number three.
+
+Test token.
